@@ -4,4 +4,5 @@
 2-> npm run build
 3-> npm run build:electron:win
 
+>>>> folder release -> install application
 
