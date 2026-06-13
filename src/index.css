@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'sbardiya';
+    src: url('/fonts/SBARDIYA.TTF');
+}
+@theme{
+    --font-sbardiya:'sbardiya';
+    --color-primary:oklch(48.8% 0.243 264.376);
+    --color-background:oklch(12.9% 0.042 264.695);
+    --color-text:oklch(96.8% 0.007 247.896);
+    --color-secondary:oklch(69.6% 0.17 162.48)
+}
+body{
+    font-family: 'sbardiya';
+}
